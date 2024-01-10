@@ -1,6 +1,3 @@
-<div align="center">
-<h2 align="center">Hola, soy Nicolás Cortizo </h2>
-</div>
 <img src="https://imgur.com/FMzMqwU.png">
 
 <br>
